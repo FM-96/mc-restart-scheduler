@@ -1,0 +1,26 @@
+{
+  "name": "mc-restart-scheduler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FM-96/mc-restart-scheduler.git"
+  },
+  "author": "Felix Müllner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FM-96/mc-restart-scheduler/issues"
+  },
+  "homepage": "https://github.com/FM-96/mc-restart-scheduler#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "rcon-client": "^4.2.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.16.0"
+  }
+}
